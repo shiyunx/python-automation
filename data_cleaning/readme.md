@@ -2,7 +2,6 @@
 
 This project provides an automated data cleaning for CSV and Excel files. It simplifies the process of preparing datasets by handling missing values, duplicates, and standardising column names.
 
-### Features
 - Supports CSV (.csv) and Excel (.xlsx) files
 - Removes duplicates
 - Handles missing values: replaces text with "Unknown", fills numeric with 0 or median
@@ -13,13 +12,13 @@ This project provides an automated data cleaning for CSV and Excel files. It sim
 
 - <code>openpyxl</code>: Read and write Excel files using pandas
 
-### How it works
+<b>How it works</b>
 
  - Run python file
 
        python data_cleaning.py
 
-<b>Input:</b>
+Input:
 
 | name  | age | height | weight |
 | ----- | --- | ------ | ------ |
@@ -27,7 +26,7 @@ This project provides an automated data cleaning for CSV and Excel files. It sim
 | Bob   |     | 107    |        |
 |       | 30  |        | 70     |
 
-<b>Output:</b>
+Output:
 
 | name    | age     | height  | weight  |
 | ------- | ------- | ------- | ------- |

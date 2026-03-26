@@ -6,13 +6,13 @@ This project automatically renames images in sequential order and supports multi
 
 - <code>files = os.listdir("data")</code>: List all files & folders in the specified directory
 
-### How it works
+<b>How it works</b>
 
  - Run python file
 
        python rename_images.py
 
-<b>Input:</b>
+Input:
 
     Images folder: /Users/name/Desktop/filename
 
@@ -22,7 +22,7 @@ This project automatically renames images in sequential order and supports multi
     img_222.jpeg
     img_333.png
 
-<b>Output:</b>
+Output:
 
     image1.jpg
     image2.jpeg
