@@ -4,5 +4,7 @@ Manual, repetitive tasks involving large volumes of data are often time-consumin
 
  <b>Clone repository</b>
 
-        git clone https://github.com/shiyunx/python-automation.git
-        cd python-automation
+```python
+git clone https://github.com/shiyunx/python-automation.git
+cd python-automation
+```

@@ -2,15 +2,17 @@
 
 This project provides an automated data cleaning for CSV and Excel files. It simplifies the process of preparing datasets by handling missing values, duplicates, and standardising column names.
 
-- <code>import os</code>: Interact with the operating system for file & folder operations (create, delete, navigate directories)
+- ```import os```: Interact with the operating system for file & folder operations (create, delete, navigate directories)
 
-- <code>openpyxl</code>: Read and write Excel files using pandas
+- ```openpyxl```: Read and write Excel files using pandas
 
 <b>How it works</b>
 
  - Run python file
 
-       python data_cleaning.py
+```python
+python data_cleaning.py
+```
 
 Input:
 

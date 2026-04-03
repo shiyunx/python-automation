@@ -2,15 +2,17 @@
 
 This project automatically renames images in sequential order and supports multiple formats.
 
-- <code>import os</code>: Interact with the operating system for file & folder operations
+- ```import os```: Interact with the operating system for file & folder operations
 
-- <code>files = os.listdir("data")</code>: List all files & folders in the specified directory
+- ```files = os.listdir("data")```: List all files & folders in the specified directory
 
 <b>How it works</b>
 
  - Run python file
 
-       python rename_images.py
+```python
+python rename_images.py
+```
 
 Input:
 
