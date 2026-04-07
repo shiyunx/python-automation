@@ -1,6 +1,6 @@
 ##  Organise Files
 
-This project provides an automated way to organise files into folders based on file type. It moves images, documents, and text files into separate folders.
+This project automatically organises files into folders based on their file types, including images, documents, text files, and other formats.
 
 - ```import os```: Interact with the operating system for file & folder operations (create, delete, navigate directories)
 
