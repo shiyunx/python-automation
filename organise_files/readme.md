@@ -29,5 +29,5 @@ Output:
 
     Moved image.png → Image 
     Moved document1.docx → Document
-    Moved document2.pdf→ Document
+    Moved document2.pdf → Document
     Moved document3.txt → Document
